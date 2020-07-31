@@ -1,5 +1,6 @@
 import math
 
+# Parts of the generate function are loosely based on TheWii's function that works similarly.
 """Generates the book's pages"""
 def generate(list, max_chars):
     count = 0
